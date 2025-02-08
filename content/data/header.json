@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Stay Updated",
-            "altText": "Sign up",
+            "altText": "Stay Updated",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
