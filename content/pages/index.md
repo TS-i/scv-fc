@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Santa Clarita Fight Club
+      label: Welcome To
       color: text-primary
       type: Badge
     elementId: ''
