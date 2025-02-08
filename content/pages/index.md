@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Are you ready to step into the ring and test your skills? Santa Clarita
+      Fight Club is your premier destination for organized fighting tournaments
+      and combat sports events. Whether you're a seasoned fighter or just
+      starting your journey, we provide a competitive and safe environment where
+      warriors can prove themselves.
     actions:
       - label: Get started
         altText: ''
