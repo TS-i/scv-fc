@@ -90,7 +90,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: All Skill Levels Welcome
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
