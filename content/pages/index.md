@@ -7,7 +7,7 @@ sections:
       text: The Home of Combat Sports
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: The Home of Combat Sports
     text: >
       Are you ready to step into the ring and test your skills? Santa Clarita
       Fight Club is your premier destination for organized fighting tournaments
