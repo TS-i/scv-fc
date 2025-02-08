@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Welcome to Santa Clarita Fight Club – The Home of Combat Sports
+      label: Welcome to Santa Clarita Fight Club
       color: text-primary
       type: Badge
     elementId: ''
