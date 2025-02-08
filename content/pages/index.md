@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Sanctioned Events
-        subtitle: Numbers Done
+        subtitle: ''
         text: |
           Professionally organized with clear rules and regulations
         actions: []
