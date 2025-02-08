@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: The Home of Combat Sports
+      text: Santa Clarita Fight Club
       color: text-dark
       type: TitleBlock
     subtitle: The Home of Combat Sports
