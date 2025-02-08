@@ -67,7 +67,7 @@ sections:
         title: Sanctioned Events
         subtitle: ''
         text: |
-          Professionally organized with clear rules and regulations
+          Professionally organized with clear rules and regulations.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
