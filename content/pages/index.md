@@ -66,10 +66,8 @@ sections:
       - type: FeaturedItem
         title: Sanctioned Events
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Professionally organized with clear rules and regulations
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
